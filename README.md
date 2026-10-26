@@ -3,11 +3,11 @@
 
 ## 🚀 About Me
 
-I'm a 4th-year Software Engineering student from Ethiopia passionate about building scalable web applications and solving real-world problems through technology.
+I'm a 4th-year Software Engineering professional from Ethiopia passionate about building scalable software and solving real-world problems through technology.
 
 Currently, I'm focused on becoming a professional **PERN Stack Developer** while continuously improving my backend architecture, API design, and system development skills.
 
--  4th Year Software Engineering Student
+
 -  Based in Ethiopia
 -  Full Stack Web Developer
 -  Currently learning Node.js, Express.js, PostgreSQL & TypeScript
